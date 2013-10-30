@@ -17,14 +17,7 @@ ChangeLog
 
 - 1.2				04/08/2006		AJL			Added site "down for maintenance" message
 
-- 1.1				31/07/2006		AJL			Backported to create a VS.NET2003 solution
-											which can target .NET 1.1.
-											
-											Added support for the default IE proxy
-											
-											Separated Core (query) project from UI code
-											
-											Added thread shutdown on form close.
+- 1.1				31/07/2006		AJL			Backported to create a VS.NET2003 solution which can target .NET 1.1. Added support for the default IE proxy. Separated Core (query) project from UI code. Added thread shutdown on form close.
 											
 - 1.0				30/07/2006		AJL			Initial Release
 

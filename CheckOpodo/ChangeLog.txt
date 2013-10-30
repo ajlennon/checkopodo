@@ -1,15 +1,3 @@
-CheckOpodo
-==========
-
-Overview
-========
-
-Checks Flight Prices on Opodo over a range of dates. 
-
-Originally written in 2006 to get to grips with C# .NET I've updated this to Visual Studio 2010 
-and it still seems to be scraping Opodo correctly.
-
-NOTE: You may need to install the MSI to be able to debug the application as the Tidy.dll used needs to be registered.
 
 ChangeLog
 =========
@@ -43,4 +31,3 @@ TODO
 - Rework queries to abstract them out better
 - Parse using better HTML cleanup / XML method
 - Add closed loop injection testing
-

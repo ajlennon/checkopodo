@@ -21,32 +21,26 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_11B8DDCF5A328010DEF3B08E52A70916"
+        "MsmKey" = "8:_0D0C869E3718025AA9F4A11BFFCA2166"
         "OwnerKey" = "8:_03002FDFFC8645DC847668EEA503ED15"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_59F89E0443B0E266197DF20E36E2371F"
-        "OwnerKey" = "8:_84A496531C6B4DABAD835951455D6A2A"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_6243832C279E185E725B65B8A47D2421"
+        "MsmKey" = "8:_10F31939D05EC4DECB734F29294AEC82"
         "OwnerKey" = "8:_03002FDFFC8645DC847668EEA503ED15"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_84A496531C6B4DABAD835951455D6A2A"
-        "OwnerKey" = "8:_11B8DDCF5A328010DEF3B08E52A70916"
+        "MsmKey" = "8:_59BBEB86F6DB1746376CF276A81E0427"
+        "OwnerKey" = "8:_03002FDFFC8645DC847668EEA503ED15"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_84A496531C6B4DABAD835951455D6A2A"
-        "OwnerKey" = "8:_03002FDFFC8645DC847668EEA503ED15"
+        "MsmKey" = "8:_59BBEB86F6DB1746376CF276A81E0427"
+        "OwnerKey" = "8:_0D0C869E3718025AA9F4A11BFFCA2166"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -58,19 +52,19 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_11B8DDCF5A328010DEF3B08E52A70916"
+        "OwnerKey" = "8:_59BBEB86F6DB1746376CF276A81E0427"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_84A496531C6B4DABAD835951455D6A2A"
+        "OwnerKey" = "8:_10F31939D05EC4DECB734F29294AEC82"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_6243832C279E185E725B65B8A47D2421"
+        "OwnerKey" = "8:_0D0C869E3718025AA9F4A11BFFCA2166"
         "MsmSig" = "8:_UNDEFINED"
         }
     }
@@ -155,7 +149,7 @@
                 {
                 "Name" = "8:.NET Framework"
                 "Message" = "8:[VSDNETMSG]"
-                "Version" = "8:2.0.50727"
+                "FrameworkVersion" = "8:2.0.50727"
                 "AllowLaterVersions" = "11:FALSE"
                 "InstallUrl" = "8:http://go.microsoft.com/fwlink/?LinkId=9832"
                 }
@@ -163,14 +157,14 @@
         }
         "File"
         {
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_11B8DDCF5A328010DEF3B08E52A70916"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_0D0C869E3718025AA9F4A11BFFCA2166"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:Core, Version=1.0.3186.37702, Culture=neutral, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:Core, Version=1.0.5051.35719, Culture=neutral, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
-                    "_11B8DDCF5A328010DEF3B08E52A70916"
+                    "_0D0C869E3718025AA9F4A11BFFCA2166"
                     {
                     "Name" = "8:Core.dll"
                     "Attributes" = "3:512"
@@ -194,34 +188,14 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_59F89E0443B0E266197DF20E36E2371F"
-            {
-            "SourcePath" = "8:TidyATL.dll"
-            "TargetName" = "8:TidyATL.dll"
-            "Tag" = "8:"
-            "Folder" = "8:_DBE1268CC2594F6E9400B7FFC2768C1C"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:4"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_6243832C279E185E725B65B8A47D2421"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_10F31939D05EC4DECB734F29294AEC82"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
             "AssemblyAsmDisplayName" = "8:ZedGraph, Version=5.0.1.41097, Culture=neutral, PublicKeyToken=02a83cbd123fcd60, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
-                    "_6243832C279E185E725B65B8A47D2421"
+                    "_10F31939D05EC4DECB734F29294AEC82"
                     {
                     "Name" = "8:ZedGraph.dll"
                     "Attributes" = "3:512"
@@ -245,20 +219,20 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_84A496531C6B4DABAD835951455D6A2A"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_59BBEB86F6DB1746376CF276A81E0427"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:Interop.TidyATL, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:Tidy, Version=1.0.0.0, Culture=neutral"
                 "ScatterAssemblies"
                 {
-                    "_84A496531C6B4DABAD835951455D6A2A"
+                    "_59BBEB86F6DB1746376CF276A81E0427"
                     {
-                    "Name" = "8:Interop.TidyATL.dll"
+                    "Name" = "8:Tidy.dll"
                     "Attributes" = "3:512"
                     }
                 }
-            "SourcePath" = "8:Interop.TidyATL.dll"
+            "SourcePath" = "8:Tidy.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_DBE1268CC2594F6E9400B7FFC2768C1C"
@@ -354,14 +328,15 @@
         {
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:CheckOpodo"
-        "ProductCode" = "8:{4E9272AE-4C8F-4250-BE9D-E1B0367004DE}"
-        "PackageCode" = "8:{9F6F7D89-928A-4590-97AD-6B5B87AA43CC}"
+        "ProductCode" = "8:{0E76FDB3-7DDE-4DEA-A105-E65CA5B37389}"
+        "PackageCode" = "8:{B0A43C5F-6476-4C98-BFE0-16860EEC8DB9}"
         "UpgradeCode" = "8:{9C7E4D4E-D5CD-473E-B4D6-F7F729FE2D26}"
+        "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
         "RemovePreviousVersions" = "11:FALSE"
         "DetectNewerInstalledVersion" = "11:TRUE"
         "InstallAllUsers" = "11:FALSE"
-        "ProductVersion" = "8:1.0.0"
+        "ProductVersion" = "8:1.4.0"
         "Manufacturer" = "8:Dynamic Devices"
         "ARPHELPTELEPHONE" = "8:"
         "ARPHELPLINK" = "8:http://www.dymamicdevices.co.uk"

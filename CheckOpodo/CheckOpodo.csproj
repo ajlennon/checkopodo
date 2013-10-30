@@ -112,7 +112,6 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="ChangeLog.txt" />
     <None Include="Resources\DD.ico" />
   </ItemGroup>
   <ItemGroup>

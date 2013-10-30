@@ -1,7 +1,7 @@
 CheckOpodo
 ==========
 
-Checks Flight Prices on Opodo over a range of dates. 
+CheckOpodo allows to you graph costs for return plane flights across a range of dates. The tool queries Opodo with different start dates. Set the maximum range using the Departure Date and Return Date calendar pickers. Then select the number of days to increment for each Opodo query, and the minimum length of stay. Click 'Search' and the utility will start building a graph of return ticket prices. For more details, to request enhancements or to report issues with the software please contact Dynamic Devices at info@dynamicdevices.co.uk
 
 Originally written in 2006 to get to grips with C# .NET I've updated this to Visual Studio 2010 
 and it still seems to be scraping Opodo correctly.
